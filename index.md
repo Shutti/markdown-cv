@@ -2,7 +2,7 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
+# Isaac Lederer
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
